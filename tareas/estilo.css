@@ -1,0 +1,53 @@
+.peru{
+    width: 50% ;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+   
+}
+article{
+    height: 150px;
+    width: 50%;
+    
+}
+.extremos1{
+    background: red;
+
+}
+.extremos2{
+    background: red;
+    
+}
+
+.mexico{
+    width: 50% ;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+}
+.extremos3{
+    background: green;
+    
+}
+.extremos4{
+    background: red;
+    
+}
+
+.china{
+    width: 50% ;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+}
+.extremos5{
+    background:blue ;
+}
+
+.extremos6{
+    background:yellow;
+}
+.extremos7{
+    background: red;
+}
+
